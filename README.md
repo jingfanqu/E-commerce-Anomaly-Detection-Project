@@ -32,6 +32,8 @@ EDA involved exploring the transaction data to answer key questions, such as:
 - Random Forest
 - GBDC
 - XGboost
+<img width="631" alt="algorithms comparison" src="https://github.com/jingfanqu/E-commerce-Anomaly-Detection-Project/assets/116844729/29b291da-a540-48ed-a07e-bd1361f20c17">
+
   
 
 ### Results and Findings
