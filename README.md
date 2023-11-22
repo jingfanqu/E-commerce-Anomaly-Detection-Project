@@ -36,3 +36,5 @@ EDA involved exploring the transaction data to answer key questions, such as:
 
 ### Results and Findings
 
+### Recommandations
+
